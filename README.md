@@ -1,1 +1,1 @@
-https://github.com/anastasia-russkih/rsschool-cv/blob/gh-pages/cv.md
+https://anastasia-russkih.github.io/rsschool-cv/cv
